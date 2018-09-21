@@ -1,6 +1,6 @@
 # Installing Python with Anaconda
 
-Instructions kindly drafted by [Wil Ward](https://wilocw.gitlab.io/)
+Instructions kindly provided by [Wil Ward](https://wilocw.gitlab.io/)
 
 Anaconda is a distribution of the Python programming language that comes integrated with a number of precompiled libraries, and its own package and environment manager, called `conda`. It freely allows use of installation of packages and libraries via `conda` or <code>pip</code>. We recommend using Anaconda to manage your Python language environment, <em>particularly if you are new to Python</em>, and the following instructions will assume you are using Anaconda. If you are using a different Python distribution, you may have to tailor to following instructions, but you should ensure that you are using Python 3.5+.
 

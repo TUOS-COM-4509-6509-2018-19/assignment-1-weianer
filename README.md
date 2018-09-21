@@ -16,8 +16,4 @@ Instructions for running Python through Anaconda in the Desktop computers are av
 
 Instructions for installing Python using Anaconda on your personal computer are [here](how_to_anaconda.md)
 
-The lab session is [here]()
-
-
-
-
+The lab session is [here](instructions_lab_w1.md)
