@@ -4,7 +4,7 @@ The Lab Session and the assignment use the same **[notebook](lab_session_week1.i
 
 ## Lab Session 
 
-During the Lab Session, read through the **[notebook](lab_session_week1.ipynb)** and complete the examples .
+During the Lab Session, read through the **[notebook](lab_session_week1.ipynb)** and complete the questions.
 
 ## Assignment Brief
 
