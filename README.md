@@ -6,6 +6,10 @@
 
 The slides for the first lecture are [here](slides/s1_probability.ipynb)
 
+Download the file and use the following instruction in your terminal
+
+`jupyter notebook s1_probability.ipynb`
+
 If you want to see the notebook as a slide show use the following instruction in your terminal
 
 `jupyter nbconvert s1_probability.ipynb --to slides --post serve`
